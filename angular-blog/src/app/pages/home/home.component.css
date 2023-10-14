@@ -7,11 +7,7 @@
   flex-direction: row;
   justify-content: center;
 }
-header {
-  margin-top: 15px;
-  display: flex;
-  justify-content: center;
-}
+
 footer {
   font-size: 14px;
   padding: 10px;
