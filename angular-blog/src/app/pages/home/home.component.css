@@ -1,0 +1,20 @@
+/* tudo que esteja relacionado ao posicionamento dos componentes */
+
+.container_articles {
+  margin-top: 30px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+header {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+footer {
+  font-size: 14px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
